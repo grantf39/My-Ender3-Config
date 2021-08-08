@@ -11,5 +11,9 @@ Changes include:
   -Changed a few other default settings
 
 
+
 Marlin 3D printer Firmware:
 https://github.com/MarlinFirmware/Marlin 
+
+Much thanks to MarlinFirmware for making everything open source with great support help.
+
